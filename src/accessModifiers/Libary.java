@@ -1,0 +1,7 @@
+package accessModifiers;
+
+public class Libary {
+    public static void main(String[] args) {
+
+    }
+}
